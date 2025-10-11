@@ -3,7 +3,7 @@ import base64
 from io import BytesIO
 
 # Load ảnh chibi gốc
-image_path = "26b04276-e256-48a2-8d3c-c2f26c627165.png"  # thay bằng đường dẫn đúng nếu cần
+image_path = "chibi.jpg"  
 img = Image.open(image_path)
 
 # Resize ảnh về 48x48
@@ -40,4 +40,3 @@ with open("profile_banner_with_chibi.svg", "w", encoding="utf-8") as f:
     f.write(svg_content)
 
 print("✅ Đã tạo file: profile_banner_with_chibi.svg")
-
