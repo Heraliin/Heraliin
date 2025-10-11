@@ -4,18 +4,18 @@
 
 
 <p align="center">
-  <img src="./.svg" height="130" style="vertical-align: middle;"/>
-  <img src="./Ena.png" width="130" style="vertical-align: middle;"/>
+  <img src="./banner.svg" height="130" style="vertical-align: middle;"/>
+  <img src="./chibi.jpg" width="130" style="vertical-align: middle;"/>
   </p>
 
-# 🎨 Xin chào! Mình tên là Đặng Thúy Ngọc 
+#  Xin chào! Mình tên là Đặng Thúy Ngọc 
 ## 👩‍🎨 Thông tin về mình
 
 Mình là một sinh viên ngành Công nghệ đa phương tiện với niềm đam mê mãnh liệt dành cho nghệ thuật thị giác, sáng tạo kỹ thuật số và trải nghiệm người dùng. Mình tin rằng thiết kế không chỉ là cái đẹp, mà còn là cách truyền tải thông điệp, cảm xúc và giá trị đến cộng đồng.
 
-Hiện tại, tôi đang theo học tại [Học Viện Công Nghệ Bưu Chính Viễn Thông(Post and Telecommunications Institute of Technology)], nơi mình được tiếp cận với các nguyên lý thiết kế, công cụ sáng tạo hiện đại và các dự án thực tế. Mình luôn tìm kiếm cơ hội để học hỏi, cộng tác và phát triển bản thân trong môi trường sáng tạo.
+Hiện tại, tôi đang theo học tại [Học Viện Công Nghệ Bưu Chính Viễn Thông (Post and Telecommunications Institute of Technology)], nơi mình được tiếp cận với các nguyên lý thiết kế, công cụ sáng tạo hiện đại và các dự án thực tế. Mình luôn tìm kiếm cơ hội để học hỏi, cộng tác và phát triển bản thân trong môi trường sáng tạo.
 
----
+
 
 ## 🧰 Kỹ năng chuyên môn
 
@@ -29,8 +29,7 @@ Hiện tại, tôi đang theo học tại [Học Viện Công Nghệ Bưu Chính
 - Adobe Photoshop / Illustrator / InDesign
 - Figma / Adobe XD
 - Procreate / Clip Studio Paint
-- Canva / CorelDRAW
-
+  
 ### 📷 Nhiếp ảnh & Video
 - Chụp ảnh nghệ thuật & chỉnh sửa hậu kỳ
 - Viết kịch bản cho MV, chuyển thể truyện ngắn thành phim,...
@@ -38,9 +37,9 @@ Hiện tại, tôi đang theo học tại [Học Viện Công Nghệ Bưu Chính
 
 ---
 
-## 📁 Dự án tiêu biểu
+## 📁 Dự án Cá Nhân
 
-### 🔗 [Portfolio Cá Nhân](https://github.com/ten-cua-ban/portfolio)
+### 🔗Đồ Án Thiết Kế Bìa Sách
 - Tổng hợp các tác phẩm thiết kế, minh họa và UI/UX đã thực hiện.
 - Bao gồm các dự án học thuật, freelance và cá nhân.
 
