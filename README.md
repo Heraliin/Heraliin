@@ -91,8 +91,7 @@ Hiện tại, mình đang theo học tại Học Viện Công Nghệ Bưu Chính
 ## 📫 Kết nối với mình tại
 
 - <img src="https://github.com/Heraliin/Heraliin/blob/main/facebook.png" width="20" style="vertical-align:middle;"/> [Thúy Ngọc](https://web.facebook.com/ngocdangeri)
-- <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/gmail.png" width="20" style="vertical-align:middle;"/> [dathng186@gmail.com](mailto:dathng186@gmail.com)  
-- <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/instagram.png" width="20" style="vertical-align:middle;"/> [@heraliin](https://www.instagram.com/heraliin?igsh=MTd4bWdzaGVqMzB0cg==)  
+- <img src="https://github.com/Heraliin/Heraliin/blob/main/gmail.png" width="20" style="vertical-align:middle;"/> [dathng186@gmail.com](mailto:dathng186@gmail.com)  
+- <img src="https://github.com/Heraliin/Heraliin/blob/main/instagram.png" width="20" style="vertical-align:middle;"/> [@heraliin](https://www.instagram.com/heraliin?igsh=MTd4bWdzaGVqMzB0cg==)  
 
 Cảm ơn bạn đã ghé thăm hồ sơ của mình! Nếu bạn yêu thích thiết kế, nghệ thuật hoặc muốn hợp tác, đừng ngần ngại kết nối nhé 💬✨
-
