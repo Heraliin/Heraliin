@@ -39,7 +39,8 @@ Hiện tại, tôi đang theo học tại [Học Viện Công Nghệ Bưu Chính
 
 ## 📁 Dự án Cá Nhân
 
-### 🔗Đồ Án Thiết Kế Bìa Sách
+### <h3><b>Đồ Án Thiết Kế Bìa Sách
+</b></h3>
 - Tổng hợp các tác phẩm thiết kế, minh họa và UI/UX đã thực hiện.
 - Bao gồm các dự án học thuật, freelance và cá nhân.
 
