@@ -15,7 +15,14 @@ Mình là một sinh viên ngành Công nghệ đa phương tiện với niềm 
 
 Hiện tại, mình đang theo học tại Học Viện Công Nghệ Bưu Chính Viễn Thông (Post and Telecommunications Institute of Technology), nơi mình được tiếp cận với các nguyên lý thiết kế, công cụ sáng tạo hiện đại và các dự án thực tế. Mình luôn tìm kiếm cơ hội để học hỏi, cộng tác và phát triển bản thân trong môi trường sáng tạo.
 
-
+## 🎓 Trình độ học vấn
+- Từng theo học tại trường THPT Trần Hưng Đạo tỉnh Tiền Giang
+- Từng trong đội tuyển học sinh giỏi văn của trường
+- Đạt giải olympic toán online cấp thành phố
+- Đạt giải vẽ môi trường xanh cấp trường
+- Đạt giải nhì cuộc thi Thủ Khoa Huân cấp trường
+- GPA đại học qua các kì: 3.24 xếp loại giỏi
+- Có bằng tin học văn phòng xếp loại xuất sắc
 
 ## 🧰 Kỹ năng chuyên môn
 
@@ -35,8 +42,6 @@ Hiện tại, mình đang theo học tại Học Viện Công Nghệ Bưu Chính
 - Viết kịch bản cho MV, chuyển thể truyện ngắn thành phim,...
 - Dựng video cơ bản với Premiere Pro / After Effects
 
-  
-
 ## 📁 Dự án Cá Nhân
 
 <h3><b> Đồ Án Thiết Kế Bìa Sách </b></h3>
@@ -48,18 +53,45 @@ Hiện tại, mình đang theo học tại Học Viện Công Nghệ Bưu Chính
 ## 📁 Dự án Nhóm
 
 <h3><b>MV SAY YOU DO</b></h3>
+
+<h3><b>Vị trí của mình trong nhóm: Leader, Scrips Writer, Director, Editor, Camera Crew, Behind The Scence </b></h3>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/z7107046883056_e1055c61eba15054d09a9b5ac6197d35.jpg"/>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/mv%20say%20you%20do.jpg"/>
-<h3><b>Vị trí của mình trong nhóm: Leader, Scrips Writer, Director, Editor, Camera Crew, Behind The Scence </b></h3>
 
 <h3><b>THIẾT KẾ VÀ PHÁT TRIỂN GAME LỆ CHI VIÊN</b></h3>
+<img src="https://github.com/Heraliin/Heraliin/blob/main/dn.jpg"/>
+<img src="https://github.com/Heraliin/Heraliin/blob/main/game1.jpg"/>
+<img src="https://github.com/Heraliin/Heraliin/blob/main/game2.jpg"/>
+<img src="https://github.com/Heraliin/Heraliin/blob/main/end.jpg"/>
 
+## 🎯 Mục tiêu tương lai
+
+- Không ngừng học hỏi và nâng cao kỹ năng, tư duy thiết kế để trở thành một designer chuyên nghiệp.
+- Tham gia các dự án mã nguồn mở và cộng đồng công nghệ để chia sẻ kiến thức và kinh nghiệm.
+- Mong muốn làm việc trong môi trường hòa đồng, nơi có thể học hỏi và đóng góp vào các sản phẩm cho đất nước.
+- Tham gia các hoạt động thiện nguyện giúp đỡ người già và trẻ nhỏ khó khăn
+- Mang những con chữ, ấm no đến cho các em vùng sâu vùng xa
+- Xây dựng truyền thông, gửi thông điệp của các cựu chiến binh, mẹ Việt Nam Anh hùng lan tỏa khắp mọi miền Tổ Quốc
+- 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HERALIIN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HERALIIN&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HERALIIN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HERALIIN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=HERALIIN&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+  
 ## 📫 Kết nối với mình tại
 
 - <img src="https://github.com/Heraliin/Heraliin/blob/main/facebook.png" width="20" style="vertical-align:middle;"/> [Thúy Ngọc](https://web.facebook.com/ngocdangeri)
-- <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/facebook.png" width="20" style="vertical-align:middle;"/> [dathng186@gmail.com](mailto:dathng186@gmail.com)  
+- <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/gmail.png" width="20" style="vertical-align:middle;"/> [dathng186@gmail.com](mailto:dathng186@gmail.com)  
 - <img src="https://raw.githubusercontent.com/baochau-cmyk/baochau-cmyk/main/instagram.png" width="20" style="vertical-align:middle;"/> [@heraliin](https://www.instagram.com/heraliin?igsh=MTd4bWdzaGVqMzB0cg==)  
 
-> “Thiết kế là sự kết hợp giữa nghệ thuật và chiến lược. Nó không chỉ đẹp, mà còn phải có lý do tồn tại.” – [Tên của bạn]
-
 Cảm ơn bạn đã ghé thăm hồ sơ của mình! Nếu bạn yêu thích thiết kế, nghệ thuật hoặc muốn hợp tác, đừng ngần ngại kết nối nhé 💬✨
+
