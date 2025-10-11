@@ -40,10 +40,11 @@ Hiện tại, tôi đang theo học tại [Học Viện Công Nghệ Bưu Chính
 ## 📁 Dự án Cá Nhân
 
 ### <h3><b>Đồ Án Thiết Kế Bìa Sách</b></h3>
-- Tổng hợp các tác phẩm thiết kế, minh họa và UI/UX đã thực hiện.
-- Bao gồm các dự án học thuật, freelance và cá nhân.
-
-### ### <h3><b>Photograph</b></h3>
+<img src="https://github.com/Heraliin/Heraliin/blob/main/Untitled-1-04.jpg"/>
+### <h3><b>Thiết Kế CD</b></h3>
+<img src="https://github.com/Heraliin/Heraliin/blob/main/Artboard%201_1.png"/>
+<img src="https://github.com/Heraliin/Heraliin/blob/main/Artboard%201_2.png/">
+### <h3><b>Photograph</b></h3>
 <img src="ảnh.jpg"/>
 <img src="ảnh 2.jpg"/>
 ### 🔗 [Ứng dụng “ArtFlow” UI Kit](https://github.com/ten-cua-ban/artflow-ui-kit)
