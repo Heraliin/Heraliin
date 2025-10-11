@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Giang Trừng.JPG" alt="cover" width="100%" />
+  <img src="https://github.com/Heraliin/Heraliin/blob/main/Giang%20Tr%E1%BB%ABng.jpg" alt="cover" width="100%" />
 </p>
 
 # 🎨 Xin chào! Mình tên là Đặng Thúy Ngọc 
