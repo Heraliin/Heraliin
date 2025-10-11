@@ -39,18 +39,19 @@ Hiện tại, tôi đang theo học tại [Học Viện Công Nghệ Bưu Chính
 
 ## 📁 Dự án Cá Nhân
 
-### <h3><b>Đồ Án Thiết Kế Bìa Sách</b></h3>
+<h3><b> Đồ Án Thiết Kế Bìa Sách </b></h3>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/Untitled-1-04.jpg"/>
-### <h3><b>Thiết Kế Rock CD</b></h3>
+<h3><b>Thiết Kế Rock CD</b></h3>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/Artboard%201_1.png"/> 
 <img src="https://github.com/Heraliin/Heraliin/blob/main/Artboard%201_2.png/">
-### <h3><b>Photograph</b></h3>
+<h3><b>Photograph</b></h3>
 <img src="ảnh.jpg"/>
 <img src="ảnh 2.jpg"/>
-### 🔗 [Ứng dụng “ArtFlow” UI Kit](https://github.com/ten-cua-ban/artflow-ui-kit)
+[Ứng dụng “ArtFlow” UI Kit](https://github.com/ten-cua-ban/artflow-ui-kit)
 - Bộ giao diện mẫu cho ứng dụng vẽ kỹ thuật số trên tabletmình có thể đóng góp vào các dự án thiết kế thương hiệu, UI/UX hoặc nghệ thuật số.
 
----
+## 📁 Dự án Nhóm
+
 
 ## 📫 Kết nối với mình tại
 
