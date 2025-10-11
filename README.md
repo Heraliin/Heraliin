@@ -2,9 +2,11 @@
   <img src="https://github.com/Heraliin/Heraliin/blob/main/Giang%20Tr%E1%BB%ABng.jpg" alt="cover" width="100%" />
 </p>
 
+
 <p align="center">
-  <img src="./banner.svg" height="130" style="vertical-align: middle;"/> />
-  <image href="https://raw.githubusercontent.com/Heraliin/Heraliin/main/chibi.jpg" x="660" y="30" width="48" height="48" />
+  <img src="./.svg" height="130" style="vertical-align: middle;"/>
+  <img src="./Ena.png" width="130" style="vertical-align: middle;"/>
+  </p>
 
 # 🎨 Xin chào! Mình tên là Đặng Thúy Ngọc 
 ## 👩‍🎨 Thông tin về mình
