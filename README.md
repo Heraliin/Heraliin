@@ -1,10 +1,9 @@
-# 🎨 Xin chào! Tôi là [Tên của bạn]
+# 🎨 Xin chào! Mình tên là Đặng Thúy Ngọc 
+## 👩‍🎨 Thông tin về mình
 
-## 👩‍🎨 Về tôi
+Mình là một sinh viên ngành Công nghệ đa phương tiện với niềm đam mê mãnh liệt dành cho nghệ thuật thị giác, sáng tạo kỹ thuật số và trải nghiệm người dùng. Mình tin rằng thiết kế không chỉ là cái đẹp, mà còn là cách truyền tải thông điệp, cảm xúc và giá trị đến cộng đồng.
 
-Tôi là một sinh viên ngành Thiết kế Đồ họa với niềm đam mê mãnh liệt dành cho nghệ thuật thị giác, sáng tạo kỹ thuật số và trải nghiệm người dùng. Tôi tin rằng thiết kế không chỉ là cái đẹp, mà còn là cách truyền tải thông điệp, cảm xúc và giá trị đến cộng đồng.
-
-Hiện tại, tôi đang theo học tại [Tên trường đại học], nơi tôi được tiếp cận với các nguyên lý thiết kế, công cụ sáng tạo hiện đại và các dự án thực tế. Tôi luôn tìm kiếm cơ hội để học hỏi, cộng tác và phát triển bản thân trong môi trường sáng tạo.
+Hiện tại, tôi đang theo học tại [Học Viện Công Nghệ Bưu Chính Viễn Thông(Post and Telecommunications Institute of Technology)], nơi mình được tiếp cận với các nguyên lý thiết kế, công cụ sáng tạo hiện đại và các dự án thực tế. Mình luôn tìm kiếm cơ hội để học hỏi, cộng tác và phát triển bản thân trong môi trường sáng tạo.
 
 ---
 
@@ -24,6 +23,7 @@ Hiện tại, tôi đang theo học tại [Tên trường đại học], nơi t�
 
 ### 📷 Nhiếp ảnh & Video
 - Chụp ảnh nghệ thuật & chỉnh sửa hậu kỳ
+- Viết kịch bản cho MV, chuyển thể truyện ngắn thành phim,...
 - Dựng video cơ bản với Premiere Pro / After Effects
 
 ---
@@ -39,18 +39,11 @@ Hiện tại, tôi đang theo học tại [Tên trường đại học], nơi t�
 - Từ logo, bảng màu, typography đến ứng dụng thực tế như menu, bao bì.
 
 ### 🔗 [Ứng dụng “ArtFlow” UI Kit](https://github.com/ten-cua-ban/artflow-ui-kit)
-- Bộ giao diện mẫu cho ứng dụng vẽ kỹ thuật số trên tablet.
-- Thiết kế theo phong cách tối giản, tập trung vào trải nghiệm người dùng.
+- Bộ giao diện mẫu cho ứng dụng vẽ kỹ thuật số trên tabletmình có thể đóng góp vào các dự án thiết kế thương hiệu, UI/UX hoặc nghệ thuật số.
 
 ---
 
-## 🎯 Mục tiêu nghề nghiệp
-
-Tôi mong muốn trở thành một nhà thiết kế đồ họa chuyên nghiệp, có khả năng kết hợp giữa tư duy thẩm mỹ và công nghệ để tạo ra những sản phẩm truyền cảm hứng. Trong tương lai, tôi hy vọng được làm việc trong môi trường sáng tạo, nơi tôi có thể đóng góp vào các dự án thiết kế thương hiệu, UI/UX hoặc nghệ thuật số.
-
----
-
-## 📫 Kết nối với tôi
+## 📫 Kết nối với mình tại
 
 - 📧 Email: [email của bạn]
 - 🌐 Website cá nhân: [link portfolio hoặc Behance]
@@ -61,4 +54,4 @@ Tôi mong muốn trở thành một nhà thiết kế đồ họa chuyên nghi�
 
 > “Thiết kế là sự kết hợp giữa nghệ thuật và chiến lược. Nó không chỉ đẹp, mà còn phải có lý do tồn tại.” – [Tên của bạn]
 
-Cảm ơn bạn đã ghé thăm hồ sơ của tôi! Nếu bạn yêu thích thiết kế, nghệ thuật hoặc muốn hợp tác, đừng ngần ngại kết nối nhé 💬✨
+Cảm ơn bạn đã ghé thăm hồ sơ của mình! Nếu bạn yêu thích thiết kế, nghệ thuật hoặc muốn hợp tác, đừng ngần ngại kết nối nhé 💬✨
