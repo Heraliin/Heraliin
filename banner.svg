@@ -1,20 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!--?xml version="1.0" encoding="UTF-8"?-->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" preserveAspectRatio="xMidYMid meet">
+  <style>
+    @font-face {
+      font-family: 'HelvCustomBold';
+      font-weight: bold;
+      src: url('https://fonts.gstatic.com/s/arial/v11/u-WUoqrET9fUeobR.woff2') format('woff2');
+    }
+    text {
+      font-family: 'HelvCustomBold', Helvetica, Arial, sans-serif;
+      font-size: 64px;
+      font-weight: bold;
+      fill: url(#textgrad);
+    }
+  </style>
+
   <defs>
     <linearGradient id="textgrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#00c6ff"/>
-      <stop offset="1" stop-color="#8e2de2"/>
+      <stop offset="0" stop-color="#00c6ff"/> <!-- Xanh -->
+      <stop offset="1" stop-color="#8e2de2"/> <!-- Tím -->
     </linearGradient>
   </defs>
 
-  <!-- Chữ “Profile” với gradient xanh → tím -->
-  <text x="50%" y="80" text-anchor="middle"
-        font-size="48" font-family="sans-serif"
-        font-weight="bold" fill="url(#textgrad)">
-    Profile
+  <text x="600" y="90" text-anchor="middle" font-family="monospace" font-size="48">
+    <tspan opacity="0">P
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan opacity="0">r
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.14s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan opacity="0">o
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.28s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan opacity="0">f
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.42s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan opacity="0">i
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.56s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan opacity="0">l
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.70s" repeatCount="indefinite"/>
+    </tspan>
+    <tspan opacity="0">e
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.7;1" dur="3.5s" begin="0.84s" repeatCount="indefinite"/>
+    </tspan>
   </text>
-
-  <!-- Ảnh chibi bên phải chữ -->
-  <image href="https://raw.githubusercontent.com/Heraliin/Heraliin/main/chibi.jpg"
-         x="660" y="30" width="48" height="48" />
 </svg>
