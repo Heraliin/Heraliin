@@ -13,7 +13,7 @@
 
 Mình là một sinh viên ngành Công nghệ đa phương tiện với niềm đam mê mãnh liệt dành cho nghệ thuật thị giác, sáng tạo kỹ thuật số và trải nghiệm người dùng. Mình tin rằng thiết kế không chỉ là cái đẹp, mà còn là cách truyền tải thông điệp, cảm xúc và giá trị đến cộng đồng.
 
-Hiện tại, tôi đang theo học tại [Học Viện Công Nghệ Bưu Chính Viễn Thông (Post and Telecommunications Institute of Technology)], nơi mình được tiếp cận với các nguyên lý thiết kế, công cụ sáng tạo hiện đại và các dự án thực tế. Mình luôn tìm kiếm cơ hội để học hỏi, cộng tác và phát triển bản thân trong môi trường sáng tạo.
+Hiện tại, mìnhmình đang theo học tại [Học Viện Công Nghệ Bưu Chính Viễn Thông (Post and Telecommunications Institute of Technology)], nơi mình được tiếp cận với các nguyên lý thiết kế, công cụ sáng tạo hiện đại và các dự án thực tế. Mình luôn tìm kiếm cơ hội để học hỏi, cộng tác và phát triển bản thân trong môi trường sáng tạo.
 
 
 
