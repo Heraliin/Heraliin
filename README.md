@@ -59,6 +59,7 @@ Hiện tại, mình đang theo học tại Học Viện Công Nghệ Bưu Chính
 <img src="https://github.com/Heraliin/Heraliin/blob/main/mv%20say%20you%20do.jpg"/>
 
 <h3><b>THIẾT KẾ VÀ PHÁT TRIỂN GAME LỆ CHI VIÊN</b></h3>
+<h3><b>Vị trí của mình trong nhóm: Prototypes Designer </b></h3>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/dn.jpg"/>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/game1.jpg"/>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/game2.jpg"/>
