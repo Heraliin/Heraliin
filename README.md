@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.svg" alt="Profile banner" />
+  <img src="./banner.svg" height="130" style="vertical-align: middle;"/> />
   <img src="https://github.com/Heraliin/Heraliin/blob/main/chibi.jpg" width="130" style="vertical-align: middle;"/>
 </p>
 
