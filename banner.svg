@@ -1,21 +1,4 @@
-from PIL import Image
-import base64
-from io import BytesIO
-
-# Load ảnh chibi gốc
-image_path = "chibi.jpg"  
-img = Image.open(image_path)
-
-# Resize ảnh về 48x48
-resized_img = img.resize((48, 48))
-
-# Chuyển ảnh sang base64 để nhúng vào SVG
-buffered = BytesIO()
-resized_img.save(buffered, format="PNG")
-img_base64 = base64.b64encode(buffered.getvalue()).decode("utf-8")
-
-# Tạo nội dung SVG
-svg_content = f'''<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" preserveAspectRatio="xMidYMid meet">
   <defs>
     <linearGradient id="textgrad" x1="0" y1="0" x2="1" y2="0">
@@ -24,19 +7,14 @@ svg_content = f'''<?xml version="1.0" encoding="UTF-8"?>
     </linearGradient>
   </defs>
 
+  <!-- Chữ “Profile” với gradient xanh → tím -->
   <text x="50%" y="80" text-anchor="middle"
         font-size="48" font-family="sans-serif"
         font-weight="bold" fill="url(#textgrad)">
     Profile
   </text>
 
-  <image x="660" y="30" width="48" height="48"
-         href="data:image/png;base64,{img_base64}" />
+  <!-- Ảnh chibi bên phải chữ -->
+  <image href="https://raw.githubusercontent.com/Heraliin/Heraliin/main/chibi.jpg"
+         x="660" y="30" width="48" height="48" />
 </svg>
-'''
-
-# Lưu file SVG
-with open("profile_banner_with_chibi.svg", "w", encoding="utf-8") as f:
-    f.write(svg_content)
-
-print("✅ Đã tạo file: profile_banner_with_chibi.svg")
