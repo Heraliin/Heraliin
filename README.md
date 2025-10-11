@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Giang Trừng.JPG" alt="cover" width="100%" />
+</p>
+
 # 🎨 Xin chào! Mình tên là Đặng Thúy Ngọc 
 ## 👩‍🎨 Thông tin về mình
 
