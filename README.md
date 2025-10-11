@@ -40,10 +40,10 @@ Hiện tại, tôi đang theo học tại [Học Viện Công Nghệ Bưu Chính
 ## 📁 Dự án Cá Nhân
 
 ### <h3><b>Đồ Án Thiết Kế Bìa Sách</b></h3>
-<img src="https://github.com/Heraliin/Heraliin/blob/main/Untitled-1-04.jpg" width="130" style="vertical-align: middle;"/>
+<img src="https://github.com/Heraliin/Heraliin/blob/main/Untitled-1-04.jpg"/>
 ### <h3><b>Thiết Kế Rock CD</b></h3>
-<img src="https://github.com/Heraliin/Heraliin/blob/main/Artboard%201_1.png" width="130" style="vertical-align: middle;"/> 
-<img src="https://github.com/Heraliin/Heraliin/blob/main/Artboard%201_2.png/" width="130" style="vertical-align: middle;">
+<img src="https://github.com/Heraliin/Heraliin/blob/main/Artboard%201_1.png"/> 
+<img src="https://github.com/Heraliin/Heraliin/blob/main/Artboard%201_2.png/">
 ### <h3><b>Photograph</b></h3>
 <img src="ảnh.jpg"/>
 <img src="ảnh 2.jpg"/>
