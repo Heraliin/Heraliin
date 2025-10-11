@@ -39,15 +39,13 @@ Hiện tại, tôi đang theo học tại [Học Viện Công Nghệ Bưu Chính
 
 ## 📁 Dự án Cá Nhân
 
-### <h3><b>Đồ Án Thiết Kế Bìa Sách
-</b></h3>
+### <h3><b>Đồ Án Thiết Kế Bìa Sách</b></h3>
 - Tổng hợp các tác phẩm thiết kế, minh họa và UI/UX đã thực hiện.
 - Bao gồm các dự án học thuật, freelance và cá nhân.
 
-### 🔗 [Dự án “ReBrand Local”](https://github.com/ten-cua-ban/rebrand-local)
-- Thiết kế lại bộ nhận diện thương hiệu cho một quán cà phê địa phương.
-- Từ logo, bảng màu, typography đến ứng dụng thực tế như menu, bao bì.
-
+### ### <h3><b>Photograph</b></h3>
+<img src="ảnh.jpg"/>
+<img src="ảnh 2.jpg"/>
 ### 🔗 [Ứng dụng “ArtFlow” UI Kit](https://github.com/ten-cua-ban/artflow-ui-kit)
 - Bộ giao diện mẫu cho ứng dụng vẽ kỹ thuật số trên tabletmình có thể đóng góp vào các dự án thiết kế thương hiệu, UI/UX hoặc nghệ thuật số.
 
