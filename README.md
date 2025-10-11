@@ -4,9 +4,7 @@
 
 <p align="center">
   <img src="./banner.svg" height="130" style="vertical-align: middle;"/> />
-  <img src="https://github.com/Heraliin/Heraliin/blob/main/chibi.jpg" width="130" style="vertical-align: right;"/>
-</p>
-
+  <image href="https://raw.githubusercontent.com/Heraliin/Heraliin/main/chibi.jpg" x="660" y="30" width="48" height="48" />
 
 # 🎨 Xin chào! Mình tên là Đặng Thúy Ngọc 
 ## 👩‍🎨 Thông tin về mình
