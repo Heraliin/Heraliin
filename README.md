@@ -65,6 +65,14 @@ Xem thêm sản phẩm photograhp tại đây: https://www.instagram.com/heralii
 <img src="https://github.com/Heraliin/Heraliin/blob/main/game2.jpg"/>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/end.jpg"/>
 
+<h3><b>THIẾT KẾ LỊCH TẾT 12 CUNG HOÀNG ĐẠO</b></h3>
+<h3><b>Vị trí của mình trong nhóm: Shake Gemini Designer </b></h3>
+<img src="https://github.com/Heraliin/Heraliin/blob/main/lich1.jpg"/>
+<img src="https://github.com/Heraliin/Heraliin/blob/main/lich2.jpg"/>
+<img src="https://github.com/Heraliin/Heraliin/blob/main/lich3.jpg"/>
+
+
+
 ## 🎯 Mục tiêu tương lai
 
 - Không ngừng học hỏi và nâng cao kỹ năng, tư duy thiết kế để trở thành một designer chuyên nghiệp.
