@@ -2,7 +2,6 @@
   <img src="https://github.com/Heraliin/Heraliin/blob/main/Giang%20Tr%E1%BB%ABng.jpg" alt="cover" width="100%" />
 </p>
 
-
 <p align="center">
   <img src="./banner.svg" height="130" style="vertical-align: middle;"/>
   <img src="./chibi.jpg" width="130" style="vertical-align: middle;"/>
