@@ -57,6 +57,7 @@ Xem thêm sản phẩm photograhp tại đây: https://www.instagram.com/heralii
 <h3><b>Vị trí của mình trong nhóm: Leader, Scrips Writer, Director, Editor, Camera Crew, Behind The Scence </b></h3>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/z7107046883056_e1055c61eba15054d09a9b5ac6197d35.jpg"/>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/mv%20say%20you%20do.jpg"/>
+Xem chi tiết MV tại đây: https://drive.google.com/file/d/1nXfZazvSnvN8lzc3p5UgK3xMMVmdvQyq/view?usp=drive_link
 
 <h3><b>THIẾT KẾ VÀ PHÁT TRIỂN GAME LỆ CHI VIÊN</b></h3>
 <h3><b>Vị trí của mình trong nhóm: Prototypes Designer, Scrips Writer </b></h3>
@@ -64,13 +65,13 @@ Xem thêm sản phẩm photograhp tại đây: https://www.instagram.com/heralii
 <img src="https://github.com/Heraliin/Heraliin/blob/main/game1.jpg"/>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/game2.jpg"/>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/end.jpg"/>
+Xem thêm chi tiết sản phẩm tại đây: https://www.figma.com/design/D1ViIbkg5CNx10MZ7ozgw0/Untitle…jCtAg-OLXwyLxZJKRdeaKvQJcX0XObvwo_aem_txbB6TYEokuHyftqPWTrYQ
 
 <h3><b>THIẾT KẾ LỊCH TẾT 12 CUNG HOÀNG ĐẠO</b></h3>
 <h3><b>Vị trí của mình trong nhóm: Shake Gemini Designer </b></h3>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/lich1.jpg"/>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/lich2.jpg"/>
 <img src="https://github.com/Heraliin/Heraliin/blob/main/lich3.jpg"/>
-
 
 
 ## 🎯 Mục tiêu tương lai
